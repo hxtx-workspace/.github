@@ -185,14 +185,14 @@ def render(config, data, now):
     else:
         lines.append('暂无公开项目更新。私有项目的开发活动不会出现在这里。')
     lines += ['', '## 访问记录', '',
-              '<img src="https://count.getloli.com/@hxtx-workspace-profile?theme=morden-num" alt="主页计数器" height="90" />', '',
+              '![主页访问计数](https://komarev.com/ghpvc/?username=hxtx-workspace&label=Profile%20views&color=3478c6&style=for-the-badge)', '',
               '第三方计数器从接入后累计图片请求，受 GitHub 图片缓存、重复访问与机器人影响；不代表独立访客数，也不是 GitHub 官方浏览量。', '',
               '## 新项目如何加入', '',
               '在 [`projects.json`](https://github.com/hxtx-workspace/.github/blob/main/projects.json) 增加一条项目配置，提交后会自动更新主页。仅显示已有项目的分类。', '',
               '命名：`ios-tweak-<插件名>` · `web-<项目名>` · `ai-<项目名>` · `tool-<工具名>`。全部小写，多词用短横线；版本使用 Git 标签。', '',
               '---', '',
               f'数据更新：**{now.astimezone(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")}（北京时间）**。每天约 09:23 自动刷新，也可手动运行；GitHub 调度可能延迟。', '',
-              '数据来源：GitHub REST API（公开仓库） · [Moe Counter](https://github.com/journey-ad/Moe-Counter)（访问图片计数）', '']
+              '数据来源：GitHub REST API（公开仓库） · [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)（访问图片计数）', '']
     return '\n'.join(lines)
 
 
