@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-label="Public project statistics">
+<title>Public project statistics</title>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#dce7f5}.muted{fill:#91a6c2}.accent{fill:#6cb6ff}</style>
+<rect width="960" height="160" rx="18" fill="#101c2e"/>
+<text x="28" y="31" font-size="14" class="muted">PUBLIC PROJECTS / 公开项目数据</text>
+<text x="28" y="90" font-size="34" class="accent">0</text>
+<text x="28" y="126" font-size="13" class="muted">项目</text>
+<text x="185" y="90" font-size="34" class="accent">0</text>
+<text x="185" y="126" font-size="13" class="muted">Stars</text>
+<text x="342" y="90" font-size="34" class="accent">0</text>
+<text x="342" y="126" font-size="13" class="muted">Forks</text>
+<text x="499" y="90" font-size="34" class="accent">0</text>
+<text x="499" y="126" font-size="13" class="muted">开放 Issues</text>
+<text x="656" y="90" font-size="34" class="accent">0</text>
+<text x="656" y="126" font-size="13" class="muted">开放 PRs</text>
+<text x="813" y="90" font-size="34" class="accent">0</text>
+<text x="813" y="126" font-size="13" class="muted">28 天提交</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-label="hxtx-workspace · Build. Explore. Share.">
+<title>hxtx-workspace · Build. Explore. Share.</title>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#dce7f5}.muted{fill:#91a6c2}.accent{fill:#6cb6ff}</style>
+<rect width="960" height="230" rx="18" fill="#101c2e"/>
+<path d="M680 0L480 230M820 0L620 230M960 0L760 230" stroke="#203b5b" stroke-width="1"/>
+<circle cx="830" cy="110" r="58" fill="none" stroke="#375f87" stroke-width="2"/>
+<circle cx="830" cy="110" r="35" fill="none" stroke="#6cb6ff" stroke-width="2"/>
+<text x="40" y="44" font-size="12" class="accent">INDEPENDENT DEVELOPMENT WORKSPACE</text>
+<text x="40" y="107" font-size="46" class="">hxtx-workspace</text>
+<text x="42" y="151" font-size="22" class="muted">Build. Explore. Share.</text>
+<text x="42" y="197" font-size="12" class="accent">iOS  /  WEB  /  AI  /  TOOLS</text>
+</svg>

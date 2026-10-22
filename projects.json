@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {"id": "ios", "title": "iOS 插件", "prefix": "ios-tweak-"},
+    {"id": "web", "title": "Web 与低代码", "prefix": "web-"},
+    {"id": "ai", "title": "AI 应用", "prefix": "ai-"},
+    {"id": "tools", "title": "工具与脚本", "prefix": "tool-"}
+  ],
+  "projects": [
+    {
+      "name": "AutoSwipe",
+      "repo": "ios-tweak-autoswipe",
+      "category": "ios",
+      "description": "iOS 越狱插件",
+      "access": "private",
+      "publish_summary": true
+    }
+  ]
+}

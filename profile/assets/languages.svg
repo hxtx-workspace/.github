@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="170" viewBox="0 0 960 170" role="img" aria-label="Public repository language distribution by bytes">
+<title>Public repository language distribution by bytes</title>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#dce7f5}.muted{fill:#91a6c2}.accent{fill:#6cb6ff}</style>
+<rect width="960" height="170" rx="18" fill="#101c2e"/>
+<text x="28" y="34" font-size="16" class="">LANGUAGES / 公开代码语言分布</text>
+<text x="28" y="99" font-size="17" class="muted">暂无公开代码语言数据 / No public language data</text>
+</svg>
