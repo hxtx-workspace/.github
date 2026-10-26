@@ -50,6 +50,6 @@ Stars 表示 GitHub 收藏支持，不是独立点赞指标。统计仅包含组
 
 ---
 
-数据更新：**2026-10-25 14:12（北京时间）**。每天约 09:23 自动刷新，也可手动运行；GitHub 调度可能延迟。
+数据更新：**2026-10-26 14:19（北京时间）**。每天约 09:23 自动刷新，也可手动运行；GitHub 调度可能延迟。
 
 数据来源：GitHub REST API（公开仓库） · [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)（访问图片计数）
