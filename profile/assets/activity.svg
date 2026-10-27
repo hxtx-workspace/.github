@@ -4,35 +4,35 @@
 <rect width="960" height="240" rx="18" fill="#101c2e"/>
 <text x="28" y="34" font-size="16" class="">ACTIVITY / 近 28 天公开提交</text>
 <text x="28" y="59" font-size="12" class="muted">UTC · 默认分支 · 不含主页仓库及私有项目</text>
-<rect x="30" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-09-29: 0</title></rect>
-<rect x="62" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-09-30: 0</title></rect>
-<rect x="94" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-01: 0</title></rect>
-<rect x="126" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-02: 0</title></rect>
-<rect x="158" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-03: 0</title></rect>
-<rect x="190" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-04: 0</title></rect>
-<rect x="222" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-05: 0</title></rect>
-<rect x="254" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-06: 0</title></rect>
-<rect x="286" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-07: 0</title></rect>
-<rect x="318" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-08: 0</title></rect>
-<rect x="350" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-09: 0</title></rect>
-<rect x="382" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-10: 0</title></rect>
-<rect x="414" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-11: 0</title></rect>
-<rect x="446" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-12: 0</title></rect>
-<rect x="478" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-13: 0</title></rect>
-<rect x="510" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-14: 0</title></rect>
-<rect x="542" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-15: 0</title></rect>
-<rect x="574" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-16: 0</title></rect>
-<rect x="606" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-17: 0</title></rect>
-<rect x="638" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-18: 0</title></rect>
-<rect x="670" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-19: 0</title></rect>
-<rect x="702" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-20: 0</title></rect>
-<rect x="734" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-21: 0</title></rect>
-<rect x="766" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-22: 0</title></rect>
-<rect x="798" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-23: 0</title></rect>
-<rect x="830" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-24: 0</title></rect>
-<rect x="862" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-25: 0</title></rect>
-<rect x="894" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-26: 0</title></rect>
-<text x="28" y="213" font-size="12" class="muted">2026-09-29</text>
-<text x="830" y="213" font-size="12" class="muted">2026-10-26</text>
+<rect x="30" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-09-30: 0</title></rect>
+<rect x="62" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-01: 0</title></rect>
+<rect x="94" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-02: 0</title></rect>
+<rect x="126" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-03: 0</title></rect>
+<rect x="158" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-04: 0</title></rect>
+<rect x="190" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-05: 0</title></rect>
+<rect x="222" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-06: 0</title></rect>
+<rect x="254" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-07: 0</title></rect>
+<rect x="286" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-08: 0</title></rect>
+<rect x="318" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-09: 0</title></rect>
+<rect x="350" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-10: 0</title></rect>
+<rect x="382" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-11: 0</title></rect>
+<rect x="414" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-12: 0</title></rect>
+<rect x="446" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-13: 0</title></rect>
+<rect x="478" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-14: 0</title></rect>
+<rect x="510" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-15: 0</title></rect>
+<rect x="542" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-16: 0</title></rect>
+<rect x="574" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-17: 0</title></rect>
+<rect x="606" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-18: 0</title></rect>
+<rect x="638" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-19: 0</title></rect>
+<rect x="670" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-20: 0</title></rect>
+<rect x="702" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-21: 0</title></rect>
+<rect x="734" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-22: 0</title></rect>
+<rect x="766" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-23: 0</title></rect>
+<rect x="798" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-24: 0</title></rect>
+<rect x="830" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-25: 0</title></rect>
+<rect x="862" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-26: 0</title></rect>
+<rect x="894" y="182" width="20" height="3" rx="4" fill="#273b53"><title>2026-10-27: 0</title></rect>
+<text x="28" y="213" font-size="12" class="muted">2026-09-30</text>
+<text x="830" y="213" font-size="12" class="muted">2026-10-27</text>
 <text x="290" y="120" font-size="17" class="muted">暂无公开提交数据 / No public commits</text>
 </svg>
